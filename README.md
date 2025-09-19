@@ -1,4 +1,4 @@
-# AULA-PR-TICA-1
+# AULA-PRÁTICA-1
 ROTEIRO-DE-AULA-PR-TICA-1 - MATÉRIA - Framework para desenvolvimento de software
 # Entrega - Atividade Prática 1
 ## Projeto
